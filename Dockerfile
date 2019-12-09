@@ -1,6 +1,6 @@
 FROM mini/base
 
-ARG AWSEBCLI_VERSION=3.10.2
+ARG AWSEBCLI_VERSION=3.16.0
 
 RUN apk-install \
     git \
